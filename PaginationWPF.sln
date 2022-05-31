@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaginationWPF", "PaginationWPF.csproj", "{3AD8C3F9-FA1B-41A5-829D-E547367B6CCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helpPaginate", "..\helpPaginate\helpPaginate.csproj", "{023C8D91-F821-40F6-9272-014EE7847F93}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3AD8C3F9-FA1B-41A5-829D-E547367B6CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD8C3F9-FA1B-41A5-829D-E547367B6CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD8C3F9-FA1B-41A5-829D-E547367B6CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023C8D91-F821-40F6-9272-014EE7847F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023C8D91-F821-40F6-9272-014EE7847F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023C8D91-F821-40F6-9272-014EE7847F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023C8D91-F821-40F6-9272-014EE7847F93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
