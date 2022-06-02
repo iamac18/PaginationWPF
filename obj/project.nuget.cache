@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0ydnG7Y5KH6X2A2vAfJn213a6OsmMg8ZEZw9SRaDEPUzm612E3N4UmjIs0oBNG46V7AfOXq/8rM6xEYLQ8YsNg==",
+  "dgSpecHash": "0qJb+tTxxQuHUgAcwHGBhLK7K0b9NviNIyuAeAsbgxK8F+qsTYaUSDvnXM9t2gD8NeRr55Ge3GwBZTc0FgMjkA==",
   "success": true,
   "projectFilePath": "H:\\C-Sharp\\PaginationWPF\\PaginationWPF.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\arunc\\.nuget\\packages\\microsoft.toolkit.mvvm\\7.1.2\\microsoft.toolkit.mvvm.7.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

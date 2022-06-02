@@ -22,3 +22,4 @@ H:\C-Sharp\PaginationWPF\obj\Debug\net6.0-windows\ref\PaginationWPF.dll
 H:\C-Sharp\PaginationWPF\bin\Debug\net6.0-windows\helpPaginate.dll
 H:\C-Sharp\PaginationWPF\bin\Debug\net6.0-windows\helpPaginate.pdb
 H:\C-Sharp\PaginationWPF\obj\Debug\net6.0-windows\PaginationWPF.csproj.CopyComplete
+H:\C-Sharp\PaginationWPF\bin\Debug\net6.0-windows\Microsoft.Toolkit.Mvvm.dll
